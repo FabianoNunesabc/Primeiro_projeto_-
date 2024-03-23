@@ -8,7 +8,7 @@ public class GalToLit {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-// declare as variáveis
+// declare as variáveis?
 		double gallons = 0;
 		double liters = 3.785;				
 // exiba o resultado para o usuário
